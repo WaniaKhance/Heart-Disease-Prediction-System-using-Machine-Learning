@@ -7,9 +7,6 @@ In recent few decades, heart problems emerge as a deadly disease and becomes the
 
  * Requirements
   ------------
-
-There are no specific requirements. 
-
 The provided code works in all python versions above 3.7.0.
 
  * Installation
